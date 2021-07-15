@@ -1,24 +1,3 @@
 # Summer_Project_2021-22
 
-yeeee ha
-
-
-edited -souvik
-
-
-bhow bhow
-
-hui hui
-
-
-# Hello World
-
-```
-print
-```
-
-## HHI
-
-```
-print('l')
-```
+Sobai ekta protocol follow koris, jeta holo kichu 'commit' ba upload korar age, oi comments e kichu likhe dish... tahole track rakhte subhidha hoy
