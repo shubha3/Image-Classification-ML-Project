@@ -12,7 +12,9 @@ The unrotated dataset as the name suggests consists of observation where the dig
 ![unrotated image](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/blob/main/data/image/unrotated%20image.jpeg)
 
 The rotated dataset on the other hand consists of observations where the digits have been rotated clockwise or anti-clockwise.
+
 ![rotated image](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/blob/main/data/image/Rotated%20image.png)
+
 ## Methodology
 We have tried to check the efficacies of a variety of learning algorithms to judge their usability on this particular dataset.
 
@@ -31,5 +33,58 @@ In particular we have used the following learning algorithms:
 In this project, we have first applied the above said learning algorithms to predict the labels of the observations both on unrotated and merged (unrotated+rotated) data.
 
 ## Brief Summary
-### [Discriminant Analysis on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/LDA-QDA)
-We first trained the unrotated data using
+---
+### Discriminant Analysis
+#### [Discriminant Analysis on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/LDA-QDA)
+* Trained the Linear and Quadratic Discriminant models on the unrotated training dataset.
+* Tried to predict the labels of the observations in the **unrotated test dataset**.
+* Tried to predict the labels of the observations in the **rotated test dataset**.
+* Applied Principal Component Analysis (PCA) as a means of dimension reduction and then tried to repeat the above steps using the principal components as observations.
+
+#### [Discriminant Analysis on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/blob/main/Application-on-Merged-data/LDA-QDA/Merged_MNIST_LDA_QDA.ipynb)
+* Merged the training sets of rotated and unrotated datasets.
+* Trained LDA and QDA models on this merged dataset.
+* Tried to predict the labels of the merged test dataset.
+* Used PCA on this merged dataset to reduce the dimension of the feature space and tried to repeat the above steps using the principal components as observations.
+
+---
+### Decision Tree
+#### [Decision Tree on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/Decision%20Tree)
+*
+*
+*
+
+### [Decision Tree on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Decision%20Tree)
+*
+*
+*
+
+---
+### Support Vector Machine
+#### [SVM on unrotated dataset](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/SVM)
+*
+*
+*
+
+#### [SVM on rotated dataset](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/SVM)
+*
+*
+*
+
+---
+### [Neural Network](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Neural%20Network)
+*
+*
+*
+
+---
+### Convolutional Neural Network
+#### [CNN on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/Convolutional%20Neural%20Network)
+*
+*
+*
+
+#### [CNN on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Convolutional%20Neural%20Network)
+*
+*
+*
