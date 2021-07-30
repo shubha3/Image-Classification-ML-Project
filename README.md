@@ -169,3 +169,61 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
 </tbody>
 </table>
+
+The following table shows the test accuracies of the different learning algorithms when the models have been trained on ***merged*** obtained from the unrotated and rotated datasets.
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="2">Learning Algorithms</th>
+    <th colspan="2">Test accuracy</th>
+  </tr>
+  <tr>
+    <td>Model trained on<br>given data set</td>
+    <td>Model trained using<br>principal components</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Discriminant<br>Analysis</td>
+    <td>LDA</td>
+    <td>58.41%</td>
+    <td>56.76%</td>
+  </tr>
+  <tr>
+    <td>QDA</td>
+    <td>17.125%</td>
+    <td>14.98%</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Decision Tree</td>
+    <td>Complete<br>decision tree</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cost complexity<br>pruing</td>
+    <td></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Random forest</td>
+    <td></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Support Vector Machine</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Neural Network</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Convoluted Neural Network</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
