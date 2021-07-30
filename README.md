@@ -88,3 +88,84 @@ In this project, we have first applied the above said learning algorithms to pre
 *
 *
 *
+
+## Results
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" rowspan="3">Learning Algorithms</th>
+    <th colspan="4">Test accuracy</th>
+  </tr>
+  <tr>
+    <td colspan="2">Model trained on<br>given data set</td>
+    <td colspan="2">Model trained using<br>principal components</td>
+  </tr>
+  <tr>
+    <td>Unrotated<br>test data</td>
+    <td>Rotated<br>test data</td>
+    <td>Unrotated<br>test data</td>
+    <td>Rotated<br>test data</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Discriminant<br>Analysis</td>
+    <td>LDA</td>
+    <td>87.22%</td>
+    <td></td>
+    <td>87.22%</td>
+    <td>9.39%</td>
+  </tr>
+  <tr>
+    <td>QDA</td>
+    <td>54.28%</td>
+    <td></td>
+    <td>13.63%</td>
+    <td>9.97%</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Decision Tree</td>
+    <td>Complete<br>decision tree</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cost complexity<br>pruing</td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Random forest</td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Support Vector Machine</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Neural Network</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Convoluted Neural Network</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
