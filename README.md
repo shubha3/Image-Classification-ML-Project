@@ -212,8 +212,8 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Support Vector Machine</td>
-    <td></td>
-    <td></td>
+    <td>90.25%</td>
+    <td>88.51%</td>
   </tr>
   <tr>
     <td colspan="2">Neural Network</td>
