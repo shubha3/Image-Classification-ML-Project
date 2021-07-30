@@ -99,13 +99,13 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Model trained on<br>given data set</td>
-    <td colspan="2">Model trained using<br>principal components</td>
+    <td colspan="1">Model trained using<br>principal components</td>
   </tr>
   <tr>
     <td>Unrotated<br>test data</td>
     <td>Rotated<br>test data</td>
     <td>Unrotated<br>test data</td>
-    <td>Rotated<br>test data</td>
+    <!--<td></td>-->
   </tr>
 </thead>
 <tbody>
@@ -113,16 +113,16 @@ The following table shows the test accuracies of the different learning algorith
     <td rowspan="2">Discriminant<br>Analysis</td>
     <td>LDA</td>
     <td>87.22%</td>
-    <td></td>
-    <td>87.22%</td>
     <td>9.39%</td>
+    <td>  87.22%</td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td>QDA</td>
     <td>54.28%</td>
-    <td></td>
-    <td>13.63%</td>
     <td>9.97%</td>
+    <td>  13.63%</td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td rowspan="3">Decision Tree</td>
@@ -130,42 +130,42 @@ The following table shows the test accuracies of the different learning algorith
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td>Cost complexity<br>pruing</td>
     <td></td>
     <td></td>
     <td>-</td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td>Random forest</td>
     <td></td>
     <td></td>
     <td>-</td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td colspan="2">Support Vector Machine</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td colspan="2">Neural Network</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
   <tr>
     <td colspan="2">Convoluted Neural Network</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <!--<td></td>-->
   </tr>
 </tbody>
 </table>
