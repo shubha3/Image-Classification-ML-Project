@@ -148,9 +148,9 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Support Vector Machine</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>97.88%</td>
+    <td>9.96%</td>
+    <td>96.85%</td>
     <!--<td></td>-->
   </tr>
   <tr>
@@ -212,7 +212,7 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Support Vector Machine</td>
-    <td>97.88%</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
