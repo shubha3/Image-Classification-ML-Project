@@ -54,7 +54,7 @@ In this project, we have first applied the above said learning algorithms to pre
 *
 *
 
-### [Decision Tree on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Decision%20Tree)
+#### [Decision Tree on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Decision%20Tree)
 *
 *
 *
