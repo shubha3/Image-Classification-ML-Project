@@ -90,7 +90,7 @@ In this project, we have first applied the above said learning algorithms to pre
 *
 
 ## Results
-
+The following table shows the test accuracies of the different learning algorithms when the models have been trained on data obtained from the unrotated dataset.
 <table>
 <thead>
   <tr>
