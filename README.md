@@ -62,14 +62,16 @@ In this project, we have first applied the above said learning algorithms to pre
 ---
 ### Support Vector Machine
 #### [SVM on unrotated dataset](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/SVM)
-*
-*
-*
+* Trained SVM model on the unrotated training dataset.
+* Tried to predict the labels of the observations in the **unrotated test dataset**.
+* Tried to predict the labels of the observations in the **rotated test dataset**.
+* Applied Principal Component Analysis (PCA) as a means of dimension reduction and then tried to repeat the above steps using the principal components as observations.
 
 #### [SVM on rotated dataset](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/SVM)
-*
-*
-*
+* Merged the training sets of rotated and unrotated datasets.
+* Trained SVM model on this merged dataset.
+* Tried to predict the labels of the merged test dataset.
+* Used PCA on this merged dataset to reduce the dimension of the feature space and tried to repeat the above steps using the principal components as observations.
 
 ---
 ### [Neural Network](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Neural%20Network)
