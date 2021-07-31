@@ -123,28 +123,28 @@ The following table shows the test accuracies of the different learning algorith
     <td>QDA</td>
     <td>54.28%</td>
     <td>9.97%</td>
-    <td>  13.63%</td>
+    <td>13.63%</td>
     <!--<td></td>-->
   </tr>
   <tr>
     <td rowspan="3">Decision Tree</td>
     <td>Complete<br>decision tree</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> 87.8% </td>
+    <td> 10.26% </td>
+    <td> 80.13% </td>
     <!--<td></td>-->
   </tr>
   <tr>
     <td>Cost complexity<br>pruing</td>
-    <td></td>
-    <td></td>
+    <td> 88.31% </td>
+    <td>-</td>
     <td>-</td>
     <!--<td></td>-->
   </tr>
   <tr>
     <td>Random forest</td>
-    <td></td>
-    <td></td>
+    <td> 96.87% </td>
+    <td> 10.42% </td>
     <td>-</td>
     <!--<td></td>-->
   </tr>
@@ -199,17 +199,17 @@ The following table shows the test accuracies of the different learning algorith
   <tr>
     <td rowspan="3">Decision Tree</td>
     <td>Complete<br>decision tree</td>
-    <td></td>
-    <td></td>
+    <td> 68.89% </td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Cost complexity<br>pruing</td>
-    <td></td>
+    <td> 69.42% </td>
     <td>-</td>
   </tr>
   <tr>
     <td>Random forest</td>
-    <td></td>
+    <td> 87.58% </td>
     <td>-</td>
   </tr>
   <tr>
