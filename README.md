@@ -165,7 +165,7 @@ The following table shows the test accuracies of the different learning algorith
     <!--<td></td>-->
   </tr>
   <tr>
-    <td colspan="2">Convoluted Neural Network</td>
+    <td colspan="2">Convolutional Neural Network</td>
     <td></td>
     <td></td>
     <td></td>
@@ -225,7 +225,7 @@ The following table shows the test accuracies of the different learning algorith
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">Convoluted Neural Network</td>
+    <td colspan="2">Convolutional Neural Network</td>
     <td></td>
     <td></td>
   </tr>
