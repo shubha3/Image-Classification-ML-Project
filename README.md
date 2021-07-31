@@ -50,14 +50,16 @@ In this project, we have first applied the above said learning algorithms to pre
 ---
 ### Decision Tree
 #### [Decision Tree on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/Decision%20Tree)
-*
-*
-*
+* Applied Decision Tree Algorithm on the original dataset with and without reduced dimension via applying **PCA**.
+* Applied Decision Tree with **Cost Complexity Pruning** on the same dataset.
+* Trained a Random Forest Model on the unrotated dataset.
+* Tested the above three models on the rotated test dataset.
 
 #### [Decision Tree on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Decision%20Tree)
-*
-*
-*
+* Merged the training sets of scaled rotated and unrotated datasets.
+* Applied Decision Tree Algorithm on the merged dataset with and without **Cost Complexity Pruning**.
+* Tested the above models on the merged test set.
+* Trained a Random Forest Model on the merged dataset tested it on the merged test set.
 
 ---
 ### Support Vector Machine
