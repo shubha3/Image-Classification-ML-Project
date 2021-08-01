@@ -1,8 +1,7 @@
-# Machine Learning Project on Image Classification
----
-By- [Arkonil Dhar](https://github.com/Arkonil), [Saumyadip Bhowmik](https://github.com/saumyadip29), [Shreya Pramanik](https://github.com/Shreya-bristi), [Shubha Sankar Banerjee](https://github.com/shubha3), [Souvik Bhattacharyya](https://github.com/souvikshanku)
+<h1 align="center">A Comparative Study of Learninng Algorithms for Image Classification</h1>
+<p align="center">
+   <a href="https://github.com/Arkonil">Arkonil Dhar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://github.com/saumyadip29">Saumyadip Bhowmik</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://github.com/Shreya-bristi">Shreya Pramanik</a><br> <a href="https://github.com/shubha3">Shubha Sankar Banerjee</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://github.com/souvikshanku">Souvik Bhattacharyya</a><br><br>M.Sc. Statistics<br>Indian Institute of Technology Kanpur<br><br><br><i>Duration- July, 2021</i></p>
 
-Duration- *July, 2021*
 
 ---
 
