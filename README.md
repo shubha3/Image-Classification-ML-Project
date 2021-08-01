@@ -1,5 +1,10 @@
 # Machine Learning Project on Image Classification
+---
+By- [Arkonil Dhar](https://github.com/Arkonil), [Saumyadip Bhowmik](https://github.com/saumyadip29), [Shreya Pramanik](https://github.com/Shreya-bristi), [Shubha Sankar Banerjee](https://github.com/shubha3), [Souvik Bhattacharyya](https://github.com/souvikshanku)
 
+Duration- *July, 2021*
+
+---
 
 ## Data Description
 The **[MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database)** (Modified National Institute of Standards and Technology) is a large database of handwritten digits that has been chosen as our intended dataset for testing different Image Classification Techniques.
