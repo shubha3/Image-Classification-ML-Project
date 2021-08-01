@@ -86,7 +86,7 @@ In this project, we have first applied the above said learning algorithms to pre
 ---
 ### Convolutional Neural Network
 #### [CNN on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/Convolutional%20Neural%20Network)
-*
+*Trained Conv
 *
 *
 
@@ -168,9 +168,9 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Convolutional Neural Network</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>99.09%</td>
+    <td>-</td>
+    <td>-</td>
     <!--<td></td>-->
   </tr>
 </tbody>
@@ -228,8 +228,8 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Convolutional Neural Network</td>
-    <td></td>
-    <td></td>
+    <td>96.53%</td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
