@@ -77,9 +77,11 @@ In this project, we have first applied the above said learning algorithms to pre
 
 ---
 ### [Neural Network](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Neural%20Network)
-*
-*
-*
+* Trained Neural Network model on the unrotated training dataset with varying model architectures.
+* Selected the model yielding best validation accuracy and tried to predict the labels of the observations in the **unrotated test dataset**.
+* Tried to predict the labels of the observation in the **rotated test dataset**.
+* Applied Principal Component Analysis (PCA) as a means of dimension reduction and then tried to repeat the above steps using the principal components as observations.
+* Repeated the above procedure for the **merged train dataset** and tried to predict the labels of the observations in the **merged test datase**t.
 
 ---
 ### Convolutional Neural Network
@@ -159,9 +161,9 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Neural Network</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>97.91%</td>
+    <td>34.21%</td>
+    <td>96.98%</td>
     <!--<td></td>-->
   </tr>
   <tr>
@@ -221,8 +223,8 @@ The following table shows the test accuracies of the different learning algorith
   </tr>
   <tr>
     <td colspan="2">Neural Network</td>
-    <td></td>
-    <td></td>
+    <td>91.54%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td colspan="2">Convolutional Neural Network</td>
