@@ -86,14 +86,14 @@ In this project, we have first applied the above said learning algorithms to pre
 ---
 ### Convolutional Neural Network
 #### [CNN on unrotated data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Unrotated-data/Convolutional%20Neural%20Network)
-*Trained Conv
-*
-*
+* Trained Convolution Neural Network on the unrotated training dataset with manually chosen convolution & pooling layers for the CNN.
+* Tried to select the model yielding best validation accuracy by RandomSearch hyperparameter tuning.
+* Predicted the labels of the obsevations in **unrotated test dataset** using the best model from RandomSearch.
 
 #### [CNN on merged data](https://github.com/shubha3/Senior-Mentorship-Summer-Project-2021/tree/main/Application-on-Merged-data/Convolutional%20Neural%20Network)
-*
-*
-*
+* Merged the training and test sets of unrotated and rotated datasets.
+* Applied the previously obtained best selected CNN model on the merged dataset.
+* Predicted the labels of observations in the **merged dataset**
 
 ## Results
 The following table shows the test accuracies of the different learning algorithms when the models have been trained on data obtained from the unrotated dataset.
