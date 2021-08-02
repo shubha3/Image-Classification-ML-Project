@@ -1,4 +1,4 @@
-<h1 align="center">A Comparative Study of Learninng Algorithms for Image Classification</h1>
+<h1 align="center">A Comparative Study of Learning Algorithms for Image Classification</h1>
 <p align="center">
    <a href="https://github.com/Arkonil">Arkonil Dhar</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://github.com/saumyadip29">Saumyadip Bhowmick</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <a href="https://github.com/Shreya-bristi">Shreya Pramanik</a><br> <a href="https://github.com/shubha3">Shubha Sankar Banerjee</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href="https://github.com/souvikshanku">Souvik Bhattacharyya</a><br><br>M.Sc. Statistics<br>Indian Institute of Technology Kanpur<br><br><br><i>Duration- July, 2021</i></p>
 
